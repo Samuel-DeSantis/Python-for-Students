@@ -15,12 +15,6 @@
 
 ## Learning to Program!
 
-|   Name   |       Description       |
-|----------|-------------------------|
-| [lesson_1](###lesson_1) | Learning with Lessons   |
-| [lesson_2](###lesson_2) | Variables and Types     |
-| [lesson_3](###lesson_3) | Using Variables & Types |
-
 Programming is a great way to complement problem solving skills learned in different subject areas, such as math and science. Taking what is learned in those classes and applying them in such a ways that allows for the visualization and further engagment of the various ideas and theory helps to reinforce what is being taught.
 
 Simply put, a program is a set of instructions that tells the computer what to do. These lessons use the Python programming language for two main reasons:
@@ -39,16 +33,20 @@ Google Colab is an online platform that allows you to write and execute programs
 
 I am writing this assuming that Google Colab is the platform being used, 
 
+## Variables and Types
+
+| Section Lessons |
+|----------|-------------------------|
+|   Name   |       Description       |
+|----------|-------------------------|
+| [lesson_1](###lesson_1) | Learning with Lessons   |
+| [lesson_2](###lesson_2) | Variables and Types     |
+| [lesson_3](###lesson_3) | Using Variables & Types |
+
+Before we dive right in, it's customary to start a new programming by writing a "Hello World" program. To do that, write `print("Hello World")` and hit CTRL+ENTER and it will run the program.
+
 ### lesson_1
 ### lesson_2
 ### lesson_3
-
-
-
-
-
-## Variables and Types
-
-Before we dive right in, it's customary to start a new programming by writing a "Hello World" program. To do that, write `print("Hello World")` and hit CTRL+ENTER and it will run the program.
 
 ## Graphing w/ Matplotlib
