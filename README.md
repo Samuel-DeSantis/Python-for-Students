@@ -65,7 +65,9 @@ The following table outlines what will be covered in the lessons for this sectio
 | [lesson_3](###lesson_3) | Using Variables & Types |
 
 Before we dive right in, it's customary to start learning a new programming language by writing a "Hello World" program. To do that, navgate to the **Python Console** tab at the bottom row in PyCharm. Write: 
-`print("Hello World")` 
+
+`print("Hello World")`
+
 and hit ENTER and it will run the program. 
 
 Woot woot! You wrote your first line of Python code. The Python Console is a great place to experiment with running python code and seeing how things work. 
