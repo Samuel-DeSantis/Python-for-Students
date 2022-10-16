@@ -17,9 +17,9 @@
 
 |   Name   |       Description       |
 |----------|-------------------------|
-| lesson_1 | Learning with Lessons   |
-| lesson_2 | Variables and Types     |
-| lesson_3 | Using Variables & Types |
+| [lesson_1](###lesson_1) | Learning with Lessons   |
+| [lesson_2](###lesson_2) | Variables and Types     |
+| [lesson_3](###lesson_3) | Using Variables & Types |
 
 Programming is a great way to complement problem solving skills learned in different subject areas, such as math and science. Taking what is learned in those classes and applying them in such a ways that allows for the visualization and further engagment of the various ideas and theory helps to reinforce what is being taught.
 
@@ -38,6 +38,14 @@ There are a couple approaches I would recommend for working through the followin
 Google Colab is an online platform that allows you to write and execute programs on the web browser. It may be the easiest route for those new to progrmaming. PyCharm is a great IDE (Integrated Development Environment) for working with Python. It is widely used by Python developers and is a great platform as well for people who may want to dive into Python more at some point. VSCode is a code editor that is chalked full of other tools and works well with basically any language. This option may be a little more difficult for those to setup who have no experience with programming or setting up environments. Beginners may want to start with one of the former and try VSCode once they advance a bit more with programming.
 
 I am writing this assuming that Google Colab is the platform being used, 
+
+### lesson_1
+### lesson_2
+### lesson_3
+
+
+
+
 
 ## Variables and Types
 
