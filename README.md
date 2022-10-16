@@ -2,7 +2,11 @@
 ### Lessons designed to help visualize middle and high school mathematics and to learn Python in the process!
 
 ### Contents
-1. [Learning to Program!](#learning-to-program)
+1. [Learning to Program](#learning-to-program)
+  1. [Why learn to program?](#why-learn-to-program)
+  2. What is programming?
+  3. Why Python?
+  4. [Getting Setup](#getting-setup)
 2. [Variables and Types](#variables-and-types)
 3. [Graphing with matplotlib](#graphing-with-matplotlib)
 4. [Coming Soon!](#coming-soon)
@@ -34,6 +38,8 @@ There are a couple approaches I would recommend for working through the followin
 - [VSCode](https://code.visualstudio.com/)
 
 Google Colab is an online platform that allows you to write and execute programs on the web browser. It may be the easiest route for those new to programming, but the slight learning curve with the others will be very beneficial for future use. PyCharm is a great IDE (Integrated Development Environment) for working with Python. It is widely used by Python developers and beginners alike. VSCode is a code editor that is chalked full of other tools and works well with basically any language. This option may be a little more difficult for those to setup who have no experience with programming or setting up environments. Beginners may want to start with one of the former and try VSCode once they advance a bit more with programming.
+
+### Getting Setup
 
 I am writing this with the use of [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) in mind. Pycharm is easy to install, use, and will be a good introduction to the programming environment. Please follow the instructions below to get PyCharm setup with the GitHub repo you are currently reading from.
 
