@@ -2,9 +2,9 @@
 ### Lessons designed to help visualize middle and high school mathematics and to learn Python in the process!
 
 ### Contents
-1. [Learning to Program!](##Learning-to-Program!)
-2. [Variables and Types](##Variables-and-Types)
-3. [Graphing w/ matplotlib](##Graphing-w/-Matplotlib)
+1. [Learning to Program!](##-Learning-to-Program!)
+2. [Variables and Types](##-Variables-and-Types)
+3. [Graphing w/ matplotlib](##-Graphing-w/-Matplotlib)
 4. 
 5. 
 6. 
@@ -35,13 +35,13 @@ I am writing this assuming that Google Colab is the platform being used,
 
 ## Variables and Types
 
-| Section Lessons |
-|----------|-------------------------|
+The following table outlines what will be covered in the lessons for this section.
+
 |   Name   |       Description       |
 |----------|-------------------------|
-| [lesson_1](###lesson_1) | Learning with Lessons   |
-| [lesson_2](###lesson_2) | Variables and Types     |
-| [lesson_3](###lesson_3) | Using Variables & Types |
+| [lesson_1](###-lesson_1) | Learning with Lessons   |
+| [lesson_2](###-lesson_2) | Variables and Types     |
+| [lesson_3](###-lesson_3) | Using Variables & Types |
 
 Before we dive right in, it's customary to start a new programming by writing a "Hello World" program. To do that, write `print("Hello World")` and hit CTRL+ENTER and it will run the program.
 
