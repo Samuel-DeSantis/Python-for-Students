@@ -59,19 +59,21 @@ If you are here **CONGRATS** for getting the PyCharm IDE setup and running! Feel
 The following table outlines what will be covered in the lessons for this section.
 
 |   Name   |       Description       |
-|----------|-------------------------|
+|:--------:|-------------------------|
 | [lesson_1](###lesson_1) | Learning with Lessons   |
 | [lesson_2](###lesson_2) | Variables and Types     |
 | [lesson_3](###lesson_3) | Using Variables & Types |
 
-Before we dive right in, it's customary to start learning a new programming language by writing a "Hello World" program. To do that, navgate to the **Python Console** tab at the bottom row in PyCharm. Write `print("Hello World")` and hit ENTER and it will run the program. 
+Before we dive right in, it's customary to start learning a new programming language by writing a "Hello World" program. To do that, navgate to the **Python Console** tab at the bottom row in PyCharm. Write: 
+`print("Hello World")` 
+and hit ENTER and it will run the program. 
 
 Woot woot! You wrote your first line of Python code. The Python Console is a great place to experiment with running python code and seeing how things work. 
 
 Next, navigate to the **Terminal** tab at the bottom row of the window and click on the drop down arrow for the Ubuntu option. There should be text that says "Python-for-Students" with a heart below and a blinking cursor. See the table below for some commands to navigate the directory. If you don't feel like a hacker yet, you will soon.
 
 | Command |       Action        |
-|---------|---------------------|
+|:-------:|---------------------|
 |   ls    | List folder contents|
 |   cd    | Change directory    |
 |  touch  | Create a file       |
@@ -81,6 +83,34 @@ Next, navigate to the **Terminal** tab at the bottom row of the window and click
 To navigate to a directory/folder do `cd [name of dir]` ex. `cd variables-and-types` to access the Variables and Types folder.
 
 ### lesson_1
+Navigate to lesson_1 using => ` cd variables-and-types` => `cd lesson_1` from the `Python-for-Students` directory and expand the dropdowns in the left project column so you can see:
+![pycharm-project-column](media/pycharm-project-column.png)
+and open both `lesson_1.py` and `test_lesson_1.py` with either double clicking the files or selecting both files and pressing ENTER (Select one file, then hold CTRL and select the other file to highlight both).
+
+In the Ubuntu Terminal that is open, run `./lesson_1.sh`. OH NO! We are getting 3 failed tests from the program! Look at the "short test summary info" to see what is missing. In `lesson_1.py` try entering in the correct colors in the single quotes for each of the fruits and run the program again.
+
+```
+def myFunction ():
+
+    # What is the color of the fruit below:
+
+    apple = 'red'
+    orange = 'orange'
+    banana = 'yellow'
+
+    return [apple, orange, banana]
+
+```
+The above code is the solution to pass the tests and you should see "3 passed" in GREEN and above that
+
+```
+test_lesson_1.py
+SUCCESS: APPLES ARE RED!
+.SUCCESS: ORANGES ARE ORANGE!
+.SUCCESS: BANANAS ARE YELLOW!
+.
+```
+
 ### lesson_2
 ### lesson_3
 
