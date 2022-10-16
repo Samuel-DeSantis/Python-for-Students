@@ -2,12 +2,12 @@
 ### Lessons designed to help visualize middle and high school mathematics and to learn Python in the process!
 
 ### Contents
-1. [Learning to Program!](##Learning-to-Program!)
-2. [Variables and Types](##Variables-and-Types)
-3. [Graphing w/ matplotlib](##Graphing-w/-Matplotlib)
-4. [Coming Soon!](##Coming-Soon!)
+1. [Learning to Program!](##-Learning-to-Program!)
+2. [Variables and Types](##-Variables-and-Types)
+3. [Graphing w/ matplotlib](##-Graphing-w/-Matplotlib)
+4. [Coming Soon!](##-Coming-Soon!)
 
-##Learning to Program!
+## Learning to Program!
 
 The following are some answers to questions you may have before getting started with some of the lessons.
 
@@ -37,7 +37,7 @@ Google Colab is an online platform that allows you to write and execute programs
 
 I am writing this with the use of [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) in mind. Pycharm is easy to install, use, and will be a good introduction to the programming environment.
 
-##Variables and Types
+## Variables and Types
 
 The following table outlines what will be covered in the lessons for this
 
