@@ -7,3 +7,5 @@ def myFunction ():
     banana = ''
 
     return [apple, orange, banana]
+
+    

@@ -2,9 +2,9 @@
 ### Lessons designed to help visualize middle and high school mathematics and to learn Python in the process!
 
 ### Contents
-1. [Learning to Program!](#Learning-to-Program!)
-2. [Variables and Types](#Variables-and-Types)
-3. [Graphing w/ matplotlib](#Graphing-w/-Matplotlib)
+1. [Learning to Program!](##Learning-to-Program!)
+2. [Variables and Types](##Variables-and-Types)
+3. [Graphing w/ matplotlib](##Graphing-w/-Matplotlib)
 4. 
 5. 
 6. 
@@ -13,13 +13,19 @@
 9. 
 10. 
 
-# Learning to Program!
+## Learning to Program!
+
+|   Name   |       Description       |
+|----------|-------------------------|
+| lesson_1 | Learning with Lessons   |
+| lesson_2 | Variables and Types     |
+| lesson_3 | Using Variables & Types |
 
 Programming is a great way to complement problem solving skills learned in different subject areas, such as math and science. Taking what is learned in those classes and applying them in such a ways that allows for the visualization and further engagment of the various ideas and theory helps to reinforce what is being taught.
 
 Simply put, a program is a set of instructions that tells the computer what to do. These lessons use the Python programming language for two main reasons:
 
-1. Readability and Easy to Learn
+1. Readability
 2. Scalability
 
 Python is a very readable language. It's syntax easy relatively close to writing phrases in english so it makes it a bit more approachable for a beginner. It is also a rather easy programming language to learn since it is easy to read and there is also a large community behind it that is great at answering questions and giving assistance. Python is also very powerful and can scale as the student grows and learns more. Moving from elementary topics to more advanced ones, Python is a valuable tool that can help with schooling and can possibly lead to potential jobs in the future.
@@ -33,8 +39,8 @@ Google Colab is an online platform that allows you to write and execute programs
 
 I am writing this assuming that Google Colab is the platform being used, 
 
-# Variables and Types
+## Variables and Types
 
 Before we dive right in, it's customary to start a new programming by writing a "Hello World" program. To do that, write `print("Hello World")` and hit CTRL+ENTER and it will run the program.
 
-# Graphing w/ Matplotlib
+## Graphing w/ Matplotlib
