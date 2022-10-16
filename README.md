@@ -86,7 +86,9 @@ To navigate to a directory/folder do `cd [name of dir]` ex. `cd variables-and-ty
 
 ### lesson_1
 Navigate to lesson_1 using => ` cd variables-and-types` => `cd lesson_1` from the `Python-for-Students` directory and expand the dropdowns in the left project column so you can see:
+
 ![pycharm-project-column](media/pycharm-project-column.png)
+
 and open both `lesson_1.py` and `test_lesson_1.py` with either double clicking the files or selecting both files and pressing ENTER (Select one file, then hold CTRL and select the other file to highlight both).
 
 In the Ubuntu Terminal that is open, run `./lesson_1.sh`. OH NO! We are getting 3 failed tests from the program! Look at the "short test summary info" to see what is missing. In `lesson_1.py` try entering in the correct colors in the single quotes for each of the fruits and run the program again.
@@ -112,6 +114,7 @@ SUCCESS: APPLES ARE RED!
 .SUCCESS: BANANAS ARE YELLOW!
 .
 ```
+Great success! Well that was easy, in lesson_2 there will be interesting topics going over using variables and learning what types are.
 
 ### lesson_2
 ### lesson_3
