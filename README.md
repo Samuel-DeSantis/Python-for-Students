@@ -3,10 +3,10 @@
 
 ### Contents
 1. [Learning to Program](#learning-to-program)
-  1. [Why learn to program?](#why-learn-to-program)
-  2. What is programming?
-  3. Why Python?
-  4. [Getting Setup](#getting-setup)
+    1. [Why learn to program?](#why-learn-to-program)
+    2. What is programming?
+    3. Why Python?
+    4. [Getting Setup](#getting-setup)
 2. [Variables and Types](#variables-and-types)
 3. [Graphing with matplotlib](#graphing-with-matplotlib)
 4. [Coming Soon!](#coming-soon)
