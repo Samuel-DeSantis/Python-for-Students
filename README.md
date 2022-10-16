@@ -44,8 +44,12 @@ Google Colab is an online platform that allows you to write and execute programs
 I am writing this with the use of [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) in mind. Pycharm is easy to install, use, and will be a good introduction to the programming environment. Please follow the instructions below to get PyCharm setup with the GitHub repo you are currently reading from.
 
 1. Start PyCharm, see menu with => 'New Project', 'Open', and 'Get from VCS'. We will use 'Get from VCS' shortly.
-2. Go to [Python-for-Students](https://github.com/Samuel-DeSantis/Python-for-Students), if not there already, and click ![github_code](media/github-code.png) dropdown button, select "HTTPS" and click the copy button.
-3. PyCharm > "Get from VCS" > Paste the copied GitHub info into URL, then hit "Clone" and "Trust Project.
+2. Go to [Python-for-Students](https://github.com/Samuel-DeSantis/Python-for-Students), if not there already, and click:
+
+![github_code](media/github-code.png) 
+
+dropdown button, select "HTTPS" and click the copy button.
+3. PyCharm => "Get from VCS" => Paste the copied GitHub info into URL, then hit "Clone" and "Trust Project.
 4. 
 5. 
 
