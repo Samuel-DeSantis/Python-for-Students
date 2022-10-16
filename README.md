@@ -2,12 +2,12 @@
 ### Lessons designed to help visualize middle and high school mathematics and to learn Python in the process!
 
 ### Contents
-1. [Learning to Program!](##-Learning-to-Program!)
-2. [Variables and Types](##-Variables-and-Types)
-3. [Graphing w/ matplotlib](##-Graphing-w/-Matplotlib)
-4. [Coming Soon!](##-Coming-Soon!)
+1. [Learning to Program!](##-learning-to-program)
+2. [Variables and Types](##-variables-and-types)
+3. [Graphing with matplotlib](##-graphing-with-matplotlib)
+4. [Coming Soon!](##-coming-soon)
 
-## Learning to Program!
+## Learning to Program
 
 The following are some answers to questions you may have before getting started with some of the lessons.
 
@@ -53,7 +53,7 @@ Before we dive right in, it's customary to start a new programming by writing a 
 ### lesson_2
 ### lesson_3
 
-## Graphing w/ Matplotlib
+## Graphing with Matplotlib
 
-## Coming Soon!
+## Coming Soon
 More coming soon!
