@@ -1,6 +1,5 @@
 import lesson_1
 
-
 def test_apple ():
     fruit = lesson_1.myFunction()[0]
     assert fruit.upper() == 'RED', "APPLES ARE RED"
