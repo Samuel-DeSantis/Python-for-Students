@@ -8,6 +8,9 @@
     3. [Why Python?](#why-python)
     4. [Getting Setup](#getting-setup)
 2. [Variables and Types](#variables-and-types)
+    1. [lesson_1](#lesson_1)
+    2. [lesson_2](#lesson_2)
+    3. [lesson_3](#lesson_3)
 3. [Graphing with matplotlib](#graphing-with-matplotlib)
 4. [Coming Soon!](#coming-soon)
 
